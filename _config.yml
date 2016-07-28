@@ -1,0 +1,14 @@
+layout_spectrum: 0.45160337281413376
+typography_spectrum: 0.36071179108694196
+color:
+  brandStrength: 0.5905779411550611
+  lightness: 0.18762138905003667
+  saturation: 0.7132950201630592
+  rhythmicContrast: 0.6225936166010797
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Ossonic
